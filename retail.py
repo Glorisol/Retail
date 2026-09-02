@@ -257,7 +257,7 @@ if st.session_state.ejecutado:
         <div class="cta-banner">
             <h3 style="color: white; margin:0 0 8px 0;">🚀 ¿Te interesa implementar este Agente Autónomo en tu empresa?</h3>
             <p style="color: #E2E8F0; margin:0 0 5px 0; font-size: 15px;">Optimiza la gestión de inventario y automatiza tu analítica con las soluciones de Sabertec AI.</p>
-            <p style="color: #CBD5E0; margin:0; font-size: 13px;">Contáctanos en <b>contacto@sabertec.com</b> para llevar tu operación al siguiente nivel.</p>
+            <p style="color: #CBD5E0; margin:0; font-size: 13px;">Contáctanos en <b>gloryrosas@sabertec.agengy</b> para llevar tu operación al siguiente nivel.</p>
         </div>
     """, unsafe_allow_html=True)
     
